@@ -1,0 +1,9 @@
+spring:
+  data:
+    rest:
+      basePath: /api
+    
+    mongodb:
+      host: localhost
+      port: 27017
+      database: tennischarter
